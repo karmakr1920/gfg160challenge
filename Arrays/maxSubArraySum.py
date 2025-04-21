@@ -15,4 +15,4 @@ def maxSubArraySum(arr):
     return res
 
 # Example usage: prints the maximum subarray sum from the given list
-# print(maxSubArraySum([2, 3, 5, -3, 8, 2]))
+print(maxSubArraySum([2, 3, 5, -3, 8, 2]))
